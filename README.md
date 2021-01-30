@@ -1,2 +1,6 @@
 # hello-world
-30/01/2021 - Getting Started with all this Git stuff
+Learning how to use GitHub at it's full potential.
+*Commits - are saved changes*
+
+Shakhansho Sabzaliev - 20 y.o., Sophomore, volleyball player.
+Understood. 
