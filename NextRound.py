@@ -1,3 +1,9 @@
+__author__ = 'shukkkur'
+
+'''
+https://codeforces.com/problemset/problem/158/A
+'''
+
 n, k = map(int, input().split())
 scores = [int(item) for item in input().split()]
 
