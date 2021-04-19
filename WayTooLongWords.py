@@ -1,3 +1,11 @@
+__author__ = 'shukkkkur'
+
+'''
+
+https://codeforces.com/problemset/problem/71/A
+
+'''
+
 testCase = int(input())
 
 for _ in range(testCase):
