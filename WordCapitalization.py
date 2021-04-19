@@ -1,3 +1,9 @@
+__author__ = 'shukkkkur'
+
+'''
+https://codeforces.com/problemset/problem/281/A
+'''
+
 word = input()
 
 new = ''
