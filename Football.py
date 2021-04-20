@@ -1,4 +1,10 @@
-positions = input()    # 1000000001
+__author__ = 'shukkkur'
+
+'''
+https://codeforces.com/problemset/problem/96/A
+'''
+
+positions = input() 
 
 if '1111111' in positions or '0000000' in positions:
       print('YES')
