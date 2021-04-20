@@ -1,8 +1,8 @@
 # CodeForces
-![Forks](https://img.shields.io/github/forks/deveshbajpai19/CodeForces.svg)
-![Stars](https://img.shields.io/github/stars/deveshbajpai19/CodeForces.svg)
-![Watchers](https://img.shields.io/github/watchers/deveshbajpai19/CodeForces.svg)
-![Last Commit](https://img.shields.io/github/last-commit/deveshbajpai19/CodeForces.svg)
+![Forks](https://img.shields.io/github/forks/shukkkur/CodeForces.svg)
+![Stars](https://img.shields.io/github/stars/shukkkur/CodeForces.svg)
+![Watchers](https://img.shields.io/github/watchers/shukkkur/CodeForces.svg)
+![Last Commit](https://img.shields.io/github/last-commit/shukkkur/CodeForces.svg) 
 
 This repository is dedicated to my Python solutions to CodeForces' problems.
 
