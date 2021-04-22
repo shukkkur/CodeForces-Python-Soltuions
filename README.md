@@ -8,7 +8,7 @@ This repository is dedicated to my Python solutions to CodeForces' problems.
 <br>
 <p>If you find any of the solutions useful, don't forget to b<>star</b> this repository.</p>
 
-
+<br>
 _P.S._
 
 _It ain't much, but it's honest work._
