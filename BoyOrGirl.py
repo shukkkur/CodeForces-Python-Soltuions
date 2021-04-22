@@ -1,8 +1,10 @@
 __author__ = 'shukkkur'
 
+
 '''
 https://codeforces.com/problemset/problem/236/A
 '''
+
 
 username = set(input())
 
