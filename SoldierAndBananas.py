@@ -1,8 +1,10 @@
 __author__ = 'shukkkur'
 
+
 '''
 https://codeforces.com/problemset/problem/546/A
 '''
+
 
 k, n, w = map(int, input().split())
 cost = 0
