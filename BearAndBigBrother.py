@@ -1,8 +1,10 @@
 __author__ = 'shukkkur'
 
+
 '''
 https://codeforces.com/problemset/problem/791/A
 '''
+
 
 Limak, Bob = map(int, input().split())
 years = 0
