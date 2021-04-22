@@ -1,8 +1,10 @@
 __author__ = 'shukkkkur'
 
+
 '''
 https://codeforces.com/problemset/problem/231/A
 '''
+
 
 numCases = int(input())
 total = 0
