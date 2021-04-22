@@ -1,8 +1,10 @@
 __author__ = 'shukkkur'
 
+
 '''
 https://codeforces.com/problemset/problem/263/A
 '''
+
 
 matrix = []
 for i in range(5):
