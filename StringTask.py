@@ -1,8 +1,10 @@
 __author__ = 'shukkkur'
 
+
 '''
 https://codeforces.com/problemset/problem/118/A
 '''
+
 
 word = input()
 output = []
