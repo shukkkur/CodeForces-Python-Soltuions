@@ -1,9 +1,10 @@
 __author__ = 'shukkkur'
-'''
 
+
+'''
 https://codeforces.com/problemset/problem/4/A
-
 '''
+
 
 w = int(input())
 
