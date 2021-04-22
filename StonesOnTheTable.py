@@ -1,8 +1,10 @@
 __author__ = 'shukkkur'
 
+
 '''
 https://codeforces.com/problemset/problem/266/A
 '''
+
 
 num = int(input())
 stones = list(input()) # RGBBR
