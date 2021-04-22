@@ -1,8 +1,10 @@
 __author__ = 'shukkkur'
 
+
 '''
 https://codeforces.com/problemset/problem/112/A
 '''
+
 
 str1 = input().lower()
 str2 = input().lower()
