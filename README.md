@@ -5,7 +5,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/shukkkur/CodeForces.svg) 
 
 This repository is dedicated to my Python solutions to CodeForces' problems.
-
+<br>
+<p>If you find any of the solutions useful, don't forget to b<>star</b> this repository.</p>
 
 
 _P.S._
