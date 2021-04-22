@@ -1,8 +1,10 @@
 __author__ = 'shukkkur'
 
+
 '''
 https://codeforces.com/problemset/problem/282/A
 '''
+
 
 n = int(input())
 outcome = 0
