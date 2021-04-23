@@ -10,7 +10,7 @@ x = int(input())
 steps = [5,4,3,2,1]
 count = 0
 
-while x != 0:  # 12
+while x != 0: 
       if x in steps:
             count += 1
             break
