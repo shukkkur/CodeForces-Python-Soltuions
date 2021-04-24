@@ -6,7 +6,7 @@
 
 This repository is dedicated to my Python solutions to CodeForces' problems.
 <br><br>
-<p>If you find any of the solutions useful, don't forget to b<>star</b> this repository.</p>
+<p>If you find any of the solutions useful, don't forget to <b>star</b> this repository.</p>
 
 <br>
 <i>P.S.</i>
