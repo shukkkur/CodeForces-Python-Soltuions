@@ -1,10 +1,8 @@
 __author__ = 'shukkkur'
 
-
 '''
 https://codeforces.com/problemset/problem/266/B
 '''
-
 
 n, t = map(int, input().split())
 queue = list(input())
