@@ -3,6 +3,7 @@ __author__ = 'shukkkur'
 
 '''
 https://codeforces.com/problemset/problem/144/A
+A. Arrival of the General
 '''
 
 
