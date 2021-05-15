@@ -11,9 +11,3 @@ alphabet = sorted(set('abcdefghijklmnopqrstuvwxyz'))
 s = sorted(set(input().lower()))
 
 print('YES') if alphabet == s else print('NO')
-
-
-
-
-
-
