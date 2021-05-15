@@ -3,6 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/shukkkur/CodeForces.svg)
 ![Watchers](https://img.shields.io/github/watchers/shukkkur/CodeForces.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/shukkkur/CodeForces.svg) 
+[![CodeFactor](https://www.codefactor.io/repository/github/shukkkur/codeforces/badge)](https://www.codefactor.io/repository/github/shukkkur/codeforces)
 
 
 This repository is dedicated to my Python solutions for CodeForces problems. Feel free to copy, contribute or comment.
