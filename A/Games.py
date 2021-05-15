@@ -15,9 +15,7 @@ for c in range(n):
       colors.append(list(map(int, input().split())))
 
 for idx, team in enumerate(colors):
-      temp = colors.copy()
-      temp.pop(idx)
-      for i in temp:
+      for i in colors:
             if team[0] == i[1]:
                   count += 1
 
