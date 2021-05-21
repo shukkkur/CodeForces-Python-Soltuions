@@ -9,9 +9,11 @@
 
 This repository is dedicated to my Python solutions for CodeForces problems. Feel free to copy, contribute and/or comment.
 <br><br>
-<p>If you find any of the solutions useful, don't forget to <b>star</b> this repository.</p>
+<p>If you find any of the solutions useful, don't forget to <i>star</i> this repository.</p>
 
 <br>
-<i>P.S.</i>
+<b>P.S.</b>
 
-_It ain't much, but it's honest work._
+<p align='center'>
+  <img src='https://github.com/shukkkur/Predict-Species-from-Images/blob/df79568afb602fb561d17158619b3b6c112c0d9a/datasets/image.png'>
+</p>
