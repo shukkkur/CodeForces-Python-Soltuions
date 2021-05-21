@@ -7,7 +7,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/shukkkur/codeforces/badge)](https://www.codefactor.io/repository/github/shukkkur/codeforces)
 
 
-This repository is dedicated to my Python solutions for CodeForces problems. Feel free to copy, contribute or comment.
+This repository is dedicated to my Python solutions for CodeForces problems. Feel free to copy, contribute and/or comment.
 <br><br>
 <p>If you find any of the solutions useful, don't forget to <b>star</b> this repository.</p>
 
