@@ -6,7 +6,11 @@ https://codeforces.com/problemset/problem/230/B
 B. T-primes
 
 Helpful Resources:
-https://www.quora.com/How-do-I-solve-Codeforces-T-prime-problem
+https://www.quora.com/How-do-I-solve-Codeforces-T-prime-problem 
+https://stackoverflow.com/questions/46841968/fastest-way-of-testing-if-a-number-is-prime-with-python
+
+This answer did not get accepted.
+I managed to get all the way to 36th test.
 '''
 from math import sqrt 
  
