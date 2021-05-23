@@ -1,10 +1,10 @@
 <h3> CodeForces </h3>
 
-![Forks](https://img.shields.io/github/forks/shukkkur/CodeForces.svg)
-![Stars](https://img.shields.io/github/stars/shukkkur/CodeForces.svg)
-![Watchers](https://img.shields.io/github/watchers/shukkkur/CodeForces.svg)
-![Last Commit](https://img.shields.io/github/last-commit/shukkkur/CodeForces.svg) 
-[![CodeFactor](https://www.codefactor.io/repository/github/shukkkur/codeforces/badge)](https://www.codefactor.io/repository/github/shukkkur/codeforces)
+![Forks](https://img.shields.io/github/forks/shukkkur/CodeFocres-Python-Soltuions.svg)
+![Stars](https://img.shields.io/github/stars/shukkkur/CodeFocres-Python-Soltuions.svg)
+![Watchers](https://img.shields.io/github/watchers/shukkkur/CodeFocres-Python-Soltuions.svg)
+![Last Commit](https://img.shields.io/github/last-commit/shukkkur/CodeFocres-Python-Soltuions.svg) 
+[![CodeFactor](https://www.codefactor.io/repository/github/shukkkur/CodeFocres-Python-Soltuions/badge)](https://www.codefactor.io/repository/github/shukkkur/CodeFocres-Python-Soltuions)
 
 
 This repository is dedicated to my Python solutions for CodeForces problems. Feel free to copy, contribute and/or comment.
