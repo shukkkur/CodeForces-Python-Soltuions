@@ -6,7 +6,7 @@ https://codeforces.com/problemset/problem/472/A
 A. Design Tutorial: Learn from Math
 '''
 
-def checker(num: int) -> bool:
+def checker(num: int) -> bool: #composite checker
       lst = [2, 3, 5, 7]
       if num not in lst:
             if num % 2 == 0 or num % 3 == 0 or num % 5 == 0:
@@ -22,8 +22,8 @@ while a + b != n:
       b = n - a
       if not checker(b): # if b is not composite
             a += 1
-            while not checker(a):
-                  a += 1
+            while not checker(a): # if a is not composite 
+                  a += 1 # keep increasing until a becomes composite
             
       
       
