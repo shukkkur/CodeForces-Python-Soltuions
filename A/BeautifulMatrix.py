@@ -3,6 +3,7 @@ __author__ = 'shukkkur'
 
 '''
 https://codeforces.com/problemset/problem/263/A
+A. Beautiful Matrix
 '''
 
 
