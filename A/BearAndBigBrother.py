@@ -3,6 +3,7 @@ __author__ = 'shukkkur'
 
 '''
 https://codeforces.com/problemset/problem/791/A
+A. Bear and Big Brother
 '''
 
 
