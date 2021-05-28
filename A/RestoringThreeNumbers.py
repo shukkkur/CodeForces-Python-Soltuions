@@ -8,8 +8,7 @@ A. Restoring Three Numbers
 
 
 vals = list(map(int, input().split()))
-t = max(vals)
-vals.pop(vals.index(t))
+t = vals.pop(vals.index(max(vals)))
 x,y,z = vals
 
 c = t - x
