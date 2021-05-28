@@ -3,6 +3,7 @@ __author__ = 'shukkkur'
 
 '''
 https://codeforces.com/problemset/problem/734/A
+A. Anton and Danik
 '''
 
 
