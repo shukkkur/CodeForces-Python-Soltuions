@@ -3,6 +3,7 @@ __author__ = 'shukkkur'
 
 '''
 https://codeforces.com/problemset/problem/236/A
+A. Boy or Girl2
 '''
 
 
