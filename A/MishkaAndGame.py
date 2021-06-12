@@ -6,6 +6,7 @@ https://codeforces.com/problemset/problem/703/A
 A. Mishka and Game
 '''
 
+
 n = int(input())
 m = 0
 c = 0
