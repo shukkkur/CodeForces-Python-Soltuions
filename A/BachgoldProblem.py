@@ -1,6 +1,5 @@
 __author__ = 'shukkkur'
 
-
 '''
 https://codeforces.com/contest/749/problem/A
 A. Bachgold Problem
