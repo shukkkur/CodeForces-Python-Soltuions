@@ -30,7 +30,4 @@ for boy in boys:
                   girls.remove(boy-1)
                   break
             
-print(pairs)      
-      
-
-      
+print(pairs)
