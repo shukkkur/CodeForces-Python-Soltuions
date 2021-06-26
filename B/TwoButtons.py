@@ -18,11 +18,3 @@ while m > n:
       count += 1
 count += n - m
 print(count)
-      
-
-
-
-      
-
-
-
