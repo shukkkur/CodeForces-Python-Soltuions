@@ -4,6 +4,8 @@ __author__ = 'shukkkur'
 '''
 https://codeforces.com/problemset/problem/1353/A
 A. Most Unstable Array
+Helpful Links:
+https://www.youtube.com/watch?v=W_7C5UEvc7o
 '''
 
 
