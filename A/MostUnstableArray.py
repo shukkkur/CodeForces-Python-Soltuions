@@ -17,4 +17,3 @@ for _ in range(t):
             print(m)
       else:
             print(2*m)
-            
