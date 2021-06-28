@@ -20,6 +20,3 @@ for _ in range(t):
             count += 1
 
       print(-1) if n >= 10**9 else print(count)
-
-
-      
