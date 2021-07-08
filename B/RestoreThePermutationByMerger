@@ -1,1 +1,22 @@
-1385B - Restore the Permutation by Merger 
+__author__ = 'shukkkur'
+
+
+'''
+https://codeforces.com/problemset/problem/1385/B
+B. Restore the Permutation by Merger
+'''
+
+
+t = int(input())
+
+for _ in range(t):
+      n = int(input())
+      ps = list(map(int, input().split()))
+      new = []
+      for p in ps:
+            if p not in new:
+                  new.append(p)
+      print(*new)
+      
+      
+    
