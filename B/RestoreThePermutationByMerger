@@ -17,6 +17,3 @@ for _ in range(t):
             if p not in new:
                   new.append(p)
       print(*new)
-      
-      
-    
