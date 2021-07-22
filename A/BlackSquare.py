@@ -16,5 +16,3 @@ for box in s:
       cal += weights[int(box)-1]
 
 print(cal)
-
-
