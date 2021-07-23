@@ -23,10 +23,3 @@ for _ in range(t):
             else:
                   break
       print('YES') if m >= n else print('NO')
-
-
-
-
-      
-
-
