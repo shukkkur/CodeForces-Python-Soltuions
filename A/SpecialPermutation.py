@@ -16,5 +16,3 @@ for _ in range(t):
             print(*p)
       else:
             print(*p)
-      
-      
