@@ -1,11 +1,9 @@
 __author__ = 'shukkkur'
 
-
 '''
 A. Brain's Photos
 https://codeforces.com/problemset/problem/707/A
 '''
-
 
 n, m = map(int, input().split())
 colored = False
