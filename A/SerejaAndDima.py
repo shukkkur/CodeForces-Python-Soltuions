@@ -9,7 +9,7 @@ A. Sereja and Dima
 
 n = int(input())
 cards = list(map(int, input().split()))
-misha = 0
+dima = 0
 sereja = 0
 
 turn = True
@@ -19,7 +19,7 @@ for i in range(n):
       right = cards[-1]
       if turn:
             choice = max(left, right)
-            misha += choice
+            dima += choice
             cards.pop(cards.index(choice))
             turn = False
       else:
@@ -28,13 +28,4 @@ for i in range(n):
             cards.pop(cards.index(choice))
             turn = True
 
-print(misha, sereja)
-
-
-
-
-
-
-
-
-
+print(dima, sereja)
