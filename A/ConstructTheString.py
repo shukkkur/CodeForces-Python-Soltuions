@@ -1,12 +1,10 @@
 __author__ = 'shukkkur'
 
-
 '''
 https://codeforces.com/problemset/problem/1335/B
 B. Construct the String
 '''
       
-
 t = int(input())
 alphabet = [*range(97, 123)]
 
@@ -22,6 +20,3 @@ for _ in range(t):
       final = (repeated * n)[:n]
       
       print(final)
-
-
-      
