@@ -11,11 +11,11 @@ alphabet = [*range(97, 123)]
 for _ in range(t):
       
       n, a, b = map(int, input().split())
-      s = ''
       unique = ''
 
       for char in range(b):
             unique += chr(alphabet[char])
+            
       repeated = (unique * a)[:a]
       final = (repeated * n)[:n]
       
