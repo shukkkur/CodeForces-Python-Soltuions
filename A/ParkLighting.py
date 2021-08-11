@@ -16,5 +16,3 @@ for _ in range(t):
             print(nm // 2)
       else:
             print((nm+1)//2)
-
-
