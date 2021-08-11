@@ -1,11 +1,9 @@
 __author__ = 'shukkkur'
 
-
 '''
 https://codeforces.com/problemset/problem/1358/A
 A. Park Lighting
 '''
-
 
 t = int(input())
 
