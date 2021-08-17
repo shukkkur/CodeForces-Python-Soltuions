@@ -17,8 +17,3 @@ for _ in range(t):
             print(yes)
       else:
             print(no)
-
-
-
-      
-      
