@@ -15,7 +15,3 @@ for i in range(n):
   for j in range(i, n):
           m.append(l[i:j+1].count(0) + (l[:i] + l[j+1:]).count(1))
 print(max(m))
-
-
-
-
