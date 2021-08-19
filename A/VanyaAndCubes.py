@@ -19,10 +19,3 @@ while n - base >= 0:
       t +=1
 
 print(t)
-      
-
-
-
-
-
-
