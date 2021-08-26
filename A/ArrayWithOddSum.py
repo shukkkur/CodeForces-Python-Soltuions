@@ -29,5 +29,3 @@ for _ in range(t):
             print(no)
       elif i == 0 and j == 1:
             print(yes) if n % 2 != 0 else print(no)
-            
-      
