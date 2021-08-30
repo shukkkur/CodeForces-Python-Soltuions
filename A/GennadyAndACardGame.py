@@ -20,4 +20,3 @@ for card in at_hand:
             break
 
 print('YES') if can_play else print('NO')
-
