@@ -20,13 +20,3 @@ for _ in range(t):
             else:
                   new.append(old.pop())
       print(' '.join(map(str, new)))
-
-
-
-
-
-
-
-
-
-      
