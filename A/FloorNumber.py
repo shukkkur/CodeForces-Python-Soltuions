@@ -15,7 +15,3 @@ for _ in range(t):
             print(1)
       else:
             print((n-3) // x + 2)
-                  
-                  
-
-      
