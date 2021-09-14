@@ -18,13 +18,3 @@ for _ in range(t):
                   if c == k:
                         print(n)
                         break
-            
-
-
-
-
-
-
-
-
-      
