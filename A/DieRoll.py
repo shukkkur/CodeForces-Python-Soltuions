@@ -1,6 +1,5 @@
 __author__ = 'shukkkur'
 
-
 '''
 A. Die Roll
 https://codeforces.com/problemset/problem/9/A
